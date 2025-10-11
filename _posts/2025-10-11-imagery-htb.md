@@ -1,8 +1,8 @@
 ---
-title: "Imagery"
+title: "HTB: Imagery"
 date: 2025-10-04 00:00 +0800
-categories: [Boot2Root]
-tags: [HTB, Medium, Linux]
+categories: [HTB]
+tags: [HTB, Linux, Medium, Boot2Root, Flask, XSS, LFI, RCE, PrivEsc, ReverseShell, Active, Hashcat, Werkzeug, Nmap, Dirsearch, Burp Suite, Stored XSS, LFI, ImageMagick RCE, Command Injection, Reverse Shell, Charcol, pyAesCrypt, Cron Abuse, MD5 , Session Hijacking]
 image: https://github.com/user-attachments/assets/2e016a46-abce-404c-9870-47e4df66c919
 ---
 
