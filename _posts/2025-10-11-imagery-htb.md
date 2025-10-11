@@ -254,7 +254,7 @@ if __name__ == '__main__':
     app_core.run(debug=False, host='0.0.0.0', port=port)
 ```
 
-From the highlighted source code, we can find that [app.py](http://app.py) are importing functions from other files that located in the same directory, here is the visualization:
+From the highlighted source code, we can find that **app.py** are importing functions from other files that located in the same directory, here is the visualization:
 
 ```
 app/
