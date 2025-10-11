@@ -11,8 +11,6 @@ I’m into HTB and THM boxes, currently working on improving my source-code revi
 Planning to pursue CPTS, cause they say it’ll make my technical skills go crazy.
 The cats on my profile? That’s Haku and Latte, my girlfriend’s fluffy duo.  
 
---
-
 ## CTFs
 
 I haven't actually won anything just yet, cause yeah. Everyone so goated. The best I’ve reached so far was during:
@@ -22,6 +20,6 @@ I haven't actually won anything just yet, cause yeah. Everyone so goated. The be
 - Stout CTF (Solo) collaboration between UniKL (MIIT) & University of Wisconsin-Stout
 - and a few other online CTFs — hopefully I’ll win something soon.
 
-**Thank you!**
+---
 
 ![1piss](https://giffiles.alphacoders.com/219/219559.gif)
